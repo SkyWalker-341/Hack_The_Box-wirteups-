@@ -235,6 +235,7 @@ print(decrypted_data)
 ```
 
 **In the email you will get another base64 strings :** {SFRCe2ZyMzNfTjE3cjBHM25fM3hwMDUzZCFf} -> decoder : ```HTB{fr33_N17r0G3n_3xp053d!_```
+
 **other base64 strings you will in the encrypted script :** {YjNXNHIzXzBmX1QwMF9nMDBkXzJfYjNfN3J1M18wZmYzcjV9} -> decoder : ```b3W4r3_0f_T00_g00d_2_b3_7ru3_0ff3r5}```
 
 ### Flag is : ```HTB{fr33_N17r0G3n_3xp053d!_b3W4r3_0f_T00_g00d_2_b3_7ru3_0ff3r5}```
