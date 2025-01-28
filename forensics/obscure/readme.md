@@ -137,7 +137,7 @@ By burtefoces you can use ```john the rapper```  to extract the hash of the data
 
 ![Screenshot from 2025-01-28 22-34-39](https://github.com/user-attachments/assets/26f686c9-bf47-4397-b2ee-a5e820d28d9e)
 
-hashcat to crack the hash  
+### hashcat to crack the hash  
 
 To carcke the hash by this command ```hashcat -m 13400 -a 0 path/to/hash.txt /path/to/wordlist --force```
 
