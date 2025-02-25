@@ -25,5 +25,13 @@ Answer : root
 Answer : "2024-03-06 06:32:45"
 
 
+4.SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
+
+your notes that when the attacker attempt was succed in they you see the session no : 37
+
+![Screenshot from 2025-02-25 21-17-05](https://github.com/user-attachments/assets/c79765fa-9f89-45ea-a3d3-669867e03eaf)
+
+
+Answer : 37
 
 
